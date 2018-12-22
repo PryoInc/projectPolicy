@@ -1,2 +1,0 @@
-# projectPolicy
-Project Policy
